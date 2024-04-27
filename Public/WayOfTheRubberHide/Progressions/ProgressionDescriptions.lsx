@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="319"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="TODO handle" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="TODO handle" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="d2d99889-eca9-43ba-80a6-3223e43ed730"/>
+                    <attribute id="SelectorId" type="FixedString" value="WayOfTheRubberHide"/>
+                    <attribute id="UUID" type="guid" value="b4d1983e-a56f-40ff-a7df-31027317a191"/>
+                </node>
+                
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="TODO handle" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="TODO handle" version="1"/>
+                    <attribute id="ExactMatch" type="FixedString" value="WayOfTheRubberHide"/>
+                    <attribute id="ProgressionTableId" type="guid" value="d2d99889-eca9-43ba-80a6-3223e43ed730"/>
+                    <attribute id="UUID" type="guid" value="c42fef11-0bd4-4ef2-bcf8-250cbfdf8484"/>
+                </node>
+                
+            </children>
+        </node>
+    </region>
+</save>

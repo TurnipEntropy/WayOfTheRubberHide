@@ -1,0 +1,36 @@
+local __util = require 'larian.util'
+
+function TotalAttackDamageDone()
+    return context.AttackDescription.TotalDamageDone
+end
+
+function AttackDamageType()
+    if (IsDamageTypeAcid()) then
+        return DamageType.Acid // Do not give resistance
+    elseif (IsDamageTypeCold()) then
+        return DamageType.Cold  // maybe level 9 resistance
+    elseif (IsDamageTypeFire()) then
+        return DamageType.Fire // level 11
+    elseif (IsDamageTypeLightning()) then
+        return DamageType.Lightning // level 6 resistance
+    elseif (IsDamageTypeThunder()) then
+        return DamageType.Thunder // level 6 resistance
+    elseif (IsDamageTypeRadiant()) then
+        return DamageType.Radiant // do not give resistance
+    elseif (IsDamageType.Poison) then
+        return DamageType.Poison  // do not give resistance
+    elseif (IsDamageTypePsychic()) then
+        return DamageType.Psychic  // do not give resistance
+    elseif (IsDamageTypeNecrotic()) then
+        return DamageType.Necrotic // do not give resistance
+    elseif (IsDamageTypeForce()) then
+        return DamageType.Force  // level 11 resistance
+    elseif (IsDamageTypeSlashing()) then
+        return DamageType.Slashing // level 9 resistance
+    elseif (IsDamageTypePiercing()) then
+        return DamageType.Piercing // level 11 resistance
+    else
+        return DamageType.Bludgeoning // level 6 resistance
+    end
+end
+    

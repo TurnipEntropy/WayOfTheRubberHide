@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+				<node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Monk_WayOfTheRubberHide"/>
+                    <attribute id="Description" type="TranslatedString" handle="hc941bf4dg1208g477bgbf87g7151861187c3" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h1bf7b391g4971g4e80ga100gcf4d1baf8282" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="WayOfTheRubberHide"/>
+                    <attribute id="ParentGuid" type="guid" value="c4598bdb-fc07-40dd-a62c-90cc138bd76f"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="d2d99889-eca9-43ba-80a6-3223e43ed730"/>
+                    <attribute id="ShortName" type="TranslatedString" handle="h182e2540gb5fag4f0ag9e9cg09d044174d1f" version="1"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Monk"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="518cadf3-6260-4cf6-bc34-c2796071a62c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

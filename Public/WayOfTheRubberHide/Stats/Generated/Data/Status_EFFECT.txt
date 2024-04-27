@@ -1,0 +1,11 @@
+new entry "INTERRUPT_DEFLECT_ATTACKS_RUBBER_HIT"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "_PASSIVES"
+data "StatusEffect" "b0ceab9b-5cdc-4436-ba89-832763900d72"
+
+new entry "INTERRUPT_DEFLECT_SPELLS_RUBBER_HIT"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "_PASSIVES"
+data "StatusEffect" "b0ceab9b-5cdc-4436-ba89-832763900d72"
