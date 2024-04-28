@@ -10,8 +10,8 @@ data "ProjectileCount" "1"
 // TODO: See if this trajectory breaks anything
 data "Trajectories" "e5f96de3-7ad6-4478-b2a6-b942e15bb71c"
 data "Icon" "Action_Monk_DeflectMissile" // TODO: Make own icon
-data "DisplayName" "TODO handle;2"
-data "Description" "TODO handle;2"
+data "DisplayName" "h4664131fg2669g4e39gb830gddc05ac1a75e"
+data "Description" "h352c71bbg72fbg428agae98g777dddda4a04"
 data "TooltipDamageList" "DealDamage(MartialArtsUnarmedDamage, Bludgeoning)"
 data "CastSound" "Action_Cast_Monk_DeflectMissile"
 data "CastTextEvent" "Cast"

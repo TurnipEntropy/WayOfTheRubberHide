@@ -5,18 +5,18 @@
         <node id="root">
             <children>
                 <node id="ActionResourceDefinition">
-                    <attribute id="DisplayName" type="TranslatedString" handle="TODO handle" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h60a23c98g237fg44d1gaefbg82d4bfceb0e3" version="1"/>
                     <attribute id="IsHidden" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="DeflectAttacks_Rubber_Charge"/>
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
-                    <attribute id="UUID" type="guid" value="TODO UUID attachment"/>
+                    <attribute id="UUID" type="guid" value="3fbdbc02-0a96-48c0-9d68-56a2a5a11dcd"/>
                 </node>
                 <node id="ActionResourceDefinition">
-                    <attribute id="DisplayName" type="TranslatedString" handle="TODO handle" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h50630a70gcbe7g4da8g96cdg9987a8994233" version="1"/>
                     <attribute id="IsHidden" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="DeflectSpells_Rubber_Charge"/>
                     <attribute id="ReplenishType" type="FixedString" value="Rest"/>
-                    <attribute id="UUID" type="guid" value="TODO UUID attachment"/>
+                    <attribute id="UUID" type="guid" value="9e55ab26-1c8c-420e-880e-52a5882d5f3a"/>
                 </node>
             </children>
         </node>

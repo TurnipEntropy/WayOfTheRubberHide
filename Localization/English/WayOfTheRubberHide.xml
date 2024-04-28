@@ -2,4 +2,44 @@
   <content contentuid="h1bf7b391g4971g4e80ga100gcf4d1baf8282" version="1">Way of the Rubber Hide</content>
   <content contentuid="hc941bf4dg1208g477bgbf87g7151861187c3" version="1">Monks studied in the Way of the Rubber Hide focus their efforts on controlling their muscles and Ki to deflect enemy attacks and avoid damage.</content>
   <content contentuid="h182e2540gb5fag4f0ag9e9cg09d044174d1f" version="1">Rubber Hide</content>
+  <content contentuid="h60a23c98g237fg44d1gaefbg82d4bfceb0e3" version="1">Deflect Melee Attacks Charge</content>
+  <content contentuid="h50630a70gcbe7g4da8g96cdg9987a8994233" version="1">Deflect Spells Charge</content>
+  <content contentuid="hc1aab303g7119g4b2bga652ga42d9a0a17ef" version="1">Deflect Melee Attacks</content>
+  <content contentuid="hd42bafd2g8fbcg4be2g9da3g22002716f6e3" version="1">Reduce the damage from a melee weapon attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your monk level.&lt;br&gt;&lt;br&gt;If the damage is reduced to 0, you use a Ki Point to &lt;LSTag Type="Spell" Tooltip="Target_Deflect_Attacks_Rubber"&gt;Deflect the Attack&lt;/LSTag&gt;.</content>
+  <content contentuid="h1d512cd9g8e16g47c9g8c79g595a22764ffb" version="1">You can only reduce damage from the attack - any additional effects can't be negated.</content>
+  <content contentuid="hb303da22gf886g4a8cgb424g8120420c7787" version="1">Deflect Melee Attacks</content>
+  <content contentuid="h24fb3bc6g7d17g4971g87a2ge1effd2d088f" version="1">Absorb the blow from a melee weapon attack and reflect it back at your attacker.</content>
+  <content contentuid="he71fad74gb432g4b86g9c4fgb6e720802d97" version="1">Deflect Spells</content>
+  <content contentuid="hb096ccf9g7331g4b75ga026g47824f14be09" version="1">Reduce the damage from a spell attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your monk level.&lt;br&gt;&lt;br&gt;If the damage is reduced to 0, you use a Ki Point to &lt;LSTag Type="Spell" Tooltip="Projectile_Deflect_Spells_Rubber"&gt;Deflect the Spell&lt;/LSTag&gt;.</content>
+  <content contentuid="h3251d5b0g98a3g4c58gb445gadef34ddeac0" version="1">You can only reduce damage from the spell - any additional effects can't be negated.</content>
+  <content contentuid="h7e94401cg2345g4030gb05agde41f808eb1a" version="1">Deflect Spells</content>
+  <content contentuid="h7284371dg7fedg43dcg9c2fg4bdafe28899c" version="1">Absorb the force of a spell attack and reflect it back at your attacker.</content>
+  <content contentuid="h8107e857gfb6cg41d2g9490g1c11f7a30b5e" version="1">Improved Unarmored Defense</content>
+  <content contentuid="h5c8164eagad49g46f3g8c17gf4529c90f935" version="1">Your training allows you to both dodge and absorb attacks. While not wearing armour, you add your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; and your monk level to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="h370a70d3g0d8bg413ega137gc461cb247c2a" version="1">Deflect Melee Attacks</content>
+  <content contentuid="h0348ad9fg0b32g458cg993fg86c02b79a97d" version="1">Use your reaction to reduce the damage from a melee weapon attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your monk level.&lt;br&gt;&lt;br&gt;If the damage is reduced to 0, you use a Ki Point to &lt;LSTag Type="Spell" Tooltip="Target_Deflect_Attacks_Rubber"&gt;Deflect the Melee Attack&lt;/LSTag&gt;.</content>
+  <content contentuid="h28a21d10gce62g4003gbd23g04a5663dfc45" version="1">You can only reduce damage from the attack - any additional effects can't be negated.</content>
+  <content contentuid="h2e22b1d2g63c8g45bbga014gd7ea85fa0e11" version="1">Deflect Spells</content>
+  <content contentuid="h1367558fg4c86g403dgb511gd08478ba24f8" version="1">Use your reaction to reduce the damage from a spell attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your monk level.&lt;br&gt;&lt;br&gt;If the damage is reduced to 0, you use a Ki Point to &lt;LSTag Type="Spell" Tooltip="Projectile_Deflect_Spells_Rubber"&gt;Deflect the Spell&lt;/LSTag&gt;.</content>
+  <content contentuid="h672ff42bgaff3g4a9egacb1g47a5119d3a88" version="1">You can only reduce damage from the attack - any additional effects can't be negated.</content>
+  <content contentuid="h1a0de73fgab0cg40f5g893cg891baf005eb9" version="1">Rubber Bounce</content>
+  <content contentuid="h2a17ccdbga3e5g4d26ga0adgffc3d4dfe603" version="1">Your control over kinetic impacts to your body allow you to jump further. Your jump distance is increased by [1]</content>
+  <content contentuid="hdbb2558fgc5bfg4861gb4f3g22b302c39899" version="1">Rubber Knees</content>
+  <content contentuid="h715050efg834bg405fg900cg64f9be252f77" version="1">When you fall, you can now use your reaction to reduce fall damage by 75%.</content>
+  <content contentuid="h7ab8026dgd2bag467fg9cefg656aeff2475a" version="1">Bounce Strike</content>
+  <content contentuid="h5260faa0g9622g4485g8198gb42344ee3907" version="1">When attacking with a monk weapon, you use the force of your initial attack to recoil and attack again for 1d4 of bludgeoning damage + the maximum of your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; or Strength &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
+  <content contentuid="hf312787bg3621g464ag8bc7g697633ecdaa8" version="1">Double Bounce Strike</content>
+  <content contentuid="hc0ad9460g3754g495bg92f3gf912d3d3c177" version="1">You are better able to control the force of your initial attack, resulting in double damage + 1d4 of bludgeoning damage + the maximum of your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; or Strength &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
+  <content contentuid="h93a1b4f0gc00eg4b91g8728g55b859760fdf" version="1">Rubber Resistance</content>
+  <content contentuid="h651916a6g5656g4663ga218gec3e5bd185a8" version="1">You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Lightning, Thunder, and Bludgenoning damage.</content>
+  <content contentuid="hea97ddf8gc7c4g44a2g88ceg577288e8a14d" version="1">Improved Rubber Resistance</content>
+  <content contentuid="h7c7be324g8844g4d1dgb710g28653560be31" version="1">You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Cold and Slashing Damage.</content>
+  <content contentuid="h4819383bg9799g4b3agb933g75c47d53e54c" version="1">Perfected Rubber Resistance</content>
+  <content contentuid="h30889b6ag7ca5g49dag846agb26bf73fb6ca" version="1">You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Fire, Piercing, and Force Damage.</content>
+  <content contentuid="h4664131fg2669g4e39gb830gddc05ac1a75e" version="1">Deflect Spells</content>
+  <content contentuid="h352c71bbg72fbg428agae98g777dddda4a04" version="1">You return the force of the spell cast against you back onto your attacker as Bludgeoning damage.</content>
+  <content contentuid="haf418e75g8150g472cgb9edg69f83ead829d" version="1">Deflect Melee Attacks</content>
+  <content contentuid="hc07f460dg9f0ag4ef7gb742g1270c8ceff96" version="1">You return the force of a melee attack against you back to the attacker as Bludgeoning damage.</content>
+  <content contentuid="h15ca059age17eg45c1g9614gb4d481b6cf99" version="1">Rubber Knees</content>
+  <content contentuid="hda9019d1ge50fg42d0gbf47ge5e8f9d69569" version="1">You use your reaction to reduce fall damage by 75%.</content>
 </contentList>
