@@ -1,36 +1,36 @@
 local __util = require 'larian.util'
 
-function TotalAttackDamageDone()
+function RH_TotalAttackDamageDone()
     return context.AttackDescription.TotalDamageDone
 end
 
 function AttackDamageType()
     if (IsDamageTypeAcid()) then
-        return DamageType.Acid // Do not give resistance
+        return DamageType.Acid
     elseif (IsDamageTypeCold()) then
-        return DamageType.Cold  // maybe level 9 resistance
+        return DamageType.Cold
     elseif (IsDamageTypeFire()) then
-        return DamageType.Fire // level 11
+        return DamageType.Fire
     elseif (IsDamageTypeLightning()) then
-        return DamageType.Lightning // level 6 resistance
+        return DamageType.Lightning
     elseif (IsDamageTypeThunder()) then
-        return DamageType.Thunder // level 6 resistance
+        return DamageType.Thunder
     elseif (IsDamageTypeRadiant()) then
-        return DamageType.Radiant // do not give resistance
+        return DamageType.Radiant
     elseif (IsDamageType.Poison) then
-        return DamageType.Poison  // do not give resistance
+        return DamageType.Poison
     elseif (IsDamageTypePsychic()) then
-        return DamageType.Psychic  // do not give resistance
+        return DamageType.Psychic
     elseif (IsDamageTypeNecrotic()) then
-        return DamageType.Necrotic // do not give resistance
+        return DamageType.Necrotic
     elseif (IsDamageTypeForce()) then
-        return DamageType.Force  // level 11 resistance
+        return DamageType.Force
     elseif (IsDamageTypeSlashing()) then
-        return DamageType.Slashing // level 9 resistance
+        return DamageType.Slashing
     elseif (IsDamageTypePiercing()) then
-        return DamageType.Piercing // level 11 resistance
+        return DamageType.Piercing
     else
-        return DamageType.Bludgeoning // level 6 resistance
+        return DamageType.Bludgeoning
     end
 end
     

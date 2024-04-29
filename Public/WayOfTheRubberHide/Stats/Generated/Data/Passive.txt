@@ -72,7 +72,7 @@ data "Description" "hc0ad9460g3754g495bg92f3gf912d3d3c177"
 data "Icon" "PassiveFeature_MartialArts_UnarmedDamage"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "not IsMiss() and IsMeleeAttack() and IsMonkWeaponAttack()"
-data "StatsFunctors" "DealDamage(TotalAttackDamageDone()+1d4+max(DexterityModifier,StrengthModifier), Bludgeoning)"
+data "StatsFunctors" "DealDamage(RH_TotalAttackDamageDone()+1d4+max(DexterityModifier,StrengthModifier), Bludgeoning)"
 
 //TODO: Make a ThickSkin passive for resisting charm and other stuff
 
