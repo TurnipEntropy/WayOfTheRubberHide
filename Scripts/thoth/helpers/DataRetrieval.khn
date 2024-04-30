@@ -1,7 +1,16 @@
 local __util = require 'larian.util'
 
+// TODO - Check if this works - may have to change the skill to just perform another attack roll?
 function RH_TotalAttackDamageDone()
-    return context.AttackDescription.TotalDamageDone
+    if (context.HitDescription.FirstAttack)
+        return context.HitDescription.TotalDamageDone
+    else
+        return 100 // TODO - Update this to 0 once I see that this matters, or just remove the if statement if this is never a problem 
+    end
+end
+
+function IsDeflect()
+    return SpellId('Projectile_Deflect_Spells_Rubber') | SpellId('Projectile_Deflect_Missiles') | SpellId('Target_Deflect_Attacks_Rubber')
 end
 
 function AttackDamageType()
